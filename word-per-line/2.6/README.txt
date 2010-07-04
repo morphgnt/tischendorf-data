@@ -165,12 +165,12 @@ Website
 
 This text has a website:
 
-http://morphgnt.org/projects/tischendorf
+http://morphgnt.org/
 
 
 
 Ulrik Sandborg-Petersen
-Aalborg, April 2010
+Aalborg, July 2010
 
 
 
@@ -298,7 +298,7 @@ v. 2.5 (2009-01-01)
    - Proof-read the "preicope adulterae" (John 7:53-8:11).
    - Updated the analysis and lemma assignment for a number of words.
 
-v 2.6 (2010-??-??)
+v 2.6 (2010-07-04)
    - Added paragraph- and chapter-breaks for the books of Titus, 1
      John, 2 John, and 3 John (they were missing in 2.5)
    - Updated BETA version to have paragraph- and chapter-breaks (they

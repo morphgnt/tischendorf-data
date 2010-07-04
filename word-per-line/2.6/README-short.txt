@@ -39,7 +39,7 @@ followed by manual correction where necessary.
 
 The text has a homepage here:
 
-http://morphgnt.org/projects/tischendorf
+http://morphgnt.org/
 
 The editor welcomes feedback on the text and its analysis.  The
 contact details can be found via the website.
