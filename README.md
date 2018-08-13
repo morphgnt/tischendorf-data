@@ -8,9 +8,8 @@ https://github.com/morphgnt/tischendorf
 
 ## Downloads?
 
-Please see:
-
-https://github.com/morphgnt/tischendorf/downloads
+Please download or clone this repo.  The latest release is inside the
+repo.
 
 Enjoy!
 
